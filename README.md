@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋
 
 
 
@@ -10,6 +10,5 @@
 - 🤔 I’m looking for help with Instance segmentation.
 - 💬 Ask me about R programing
 - 📫 How to reach me: sudipan.irri@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
